@@ -12,7 +12,6 @@
         "group",
         "sort"
     ],
-    "minimum-stability": "dev",
     "license": "MIT",
     "authors": [
         {
