@@ -2,6 +2,7 @@
     "name": "dpolac/twig-lambda",
     "type": "library",
     "description": "Lambda expressions for Twig and filters that make use of them",
+    "version": "1.0.0",
     "keywords": [
         "lambda",
         "function",
